@@ -1,0 +1,55 @@
+
+13:10:19: INFO: FH_LOADER WAS CALLED EXACTLY LIKE THIS
+************************************************
+fh_loader --port=\\.\COM5 --search_path=firmware\userdata.xml --sendxml=Z8_2.2.1.xml --noprompt --showpercentagecomplete --memoryname=eMMC --setactivepartition=0 --reset 
+************************************************
+
+13:10:19: DEBUG: Binary build date: Apr 27 2018 @ 03:04:29
+
+13:10:19: DEBUG: Build Version: 18.04.27.03.04.29
+
+13:10:19: INFO: Current working dir (cwd): C:\Users\ljy09\Desktop\啥也不是的工具箱-1.1.6-双版本版\
+13:10:19: INFO: Showing network mappings to allow debugging
+13:10:19: DEBUG: 会记录新的网络连接。
+
+13:10:19: DEBUG: 
+
+13:10:19: DEBUG: 列表是空的。
+
+13:10:19: DEBUG: 
+
+13:10:19: INFO: 'firmware\userdata.xml\' changed to
+13:10:19: INFO: this 'C:\Users\ljy09\Desktop\啥也不是的工具箱-1.1.6-双版本版\firmware\userdata.xml\'
+13:10:19: INFO: 
+
+
+
+13:10:19: INFO: Trying to store 'Z8_2.2.1.xml' in string table
+13:10:19: DEBUG: ==================================================================================
+13:10:19: DEBUG: ==================================================================================
+13:10:19: INFO: Looking for file 'Z8_2.2.1.xml'
+13:10:19: DEBUG: 1. Calling stat('C:\Users\ljy09\Desktop\啥也不是的工具箱-1.1.6-双版本版\firmware\userdata.xml\Z8_2.2.1.xml')
+13:10:19: DEBUG: 2. Calling stat(Z8_2.2.1.xml)
+
+
+	                         (_)            
+	__      ____ _ _ __ _ __  _ _ __   __ _ 
+	\ \ /\ / / _` | '__| '_ \| | '_ \ / _` |
+	 \ V  V / (_| | |  | | | | | | | | (_| |
+	  \_/\_/ \__,_|_|  |_| |_|_|_| |_|\__, |
+	                                   __/ |
+	                                  |___/ 
+
+
+13:10:19: WARNING: find_file:8384 Couldn't find the file 'Z8_2.2.1.xml', returning NULL
+
+
+	 _____                    
+	|  ___|                   
+	| |__ _ __ _ __ ___  _ __ 
+	|  __| '__| '__/ _ \| '__|
+	| |__| |  | | | (_) | |   
+	\____/_|  |_|  \___/|_|  
+
+
+13:10:19: {ERROR: OpenAndStoreAllXMLFiles:8494 'Z8_2.2.1.xml' not found
